@@ -1,2 +1,2 @@
 # sudoku-solver
-# A sudoku solver built using C
+ A sudoku solver built using C
