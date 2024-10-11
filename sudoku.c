@@ -3,7 +3,7 @@
 #define N 9
 bool checkvalidity(int r,int c,int s[N][N], int d)
 {
-    for(int i=0;i<9;i++)    //checks the number im the row
+    for(int i=0;i<9;i++)    //checks the number in the row
     {
         if(s[r][i]==d)
         {
